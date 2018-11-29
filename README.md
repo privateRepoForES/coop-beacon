@@ -1,0 +1,2 @@
+# coop-beacon
+firstcoop@beacon
